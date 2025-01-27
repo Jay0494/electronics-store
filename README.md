@@ -1,5 +1,12 @@
 # Electronics-store
+---
+## Table Of Contents:
 
+- [Introduction](#introduction)
+- [Problem Statement](#problem-statement)
+- [Findings](#findings)
+- [Recommendations](#recommendations)
+- [Stakeholder Report](#stakeholder-report)
 ---
 
 ### **Introduction**  
@@ -28,7 +35,7 @@ After loading the cleaned data into **Power BI Desktop**, I designed a robust da
 
 These transformations and calculations were integral to creating accurate visualizations and driving actionable insights for the client.  
 
-### **Findings: General Overview**  
+### **Findings**  
 
 #### **Customer Demographics**  
 - The majority of the customers were **young adults (37.12%)**, followed closely by **middle-aged adults (36.58%)**.  
@@ -130,9 +137,6 @@ The analysis revealed distinct satisfaction trends among different age groups:
   - **Customer Sentiment:** A higher percentage of customers expressed dissatisfaction compared to other brands in this segment.
  
     ### **Recommendations**  
-
-Based on the insights provided, here are targeted recommendations to help the client optimize sales, enhance customer satisfaction, and improve overall business performance:  
-
 ---
 
 #### **1. Address Customer Dissatisfaction**  
@@ -209,13 +213,10 @@ Based on the insights provided, here are targeted recommendations to help the cl
   - Offer gender-neutral packaging or promotional events to expand appeal across demographics.
 
 
-    ### **Stakeholder Report**  
-
+### **Stakeholder Report**  
 #### **Subject:** Insights and Recommendations for Optimizing Sales and Customer Satisfaction in 2025  
-
 ---
-
-### **Introduction**  
+### **Summary**  
 As part of our collaboration, I conducted a detailed analysis of your electronics store’s sales data from January 2024. The primary objective was to derive actionable insights and provide data-driven recommendations to optimize sales performance and improve customer satisfaction for 2025. This report summarizes the findings and offers strategic recommendations based on the analysis.  
 
 ---
