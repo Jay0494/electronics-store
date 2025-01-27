@@ -1,4 +1,4 @@
-# Electronics-store
+# Electronics-store Project
 ---
 ## Table Of Contents:
 
@@ -33,7 +33,7 @@ After loading the cleaned data into **Power BI Desktop**, I designed a robust da
 - **Customer Age Grouping:** Utilized the `SWITCH(TRUE())` function to categorize customers into age groups (e.g., 18–25, 26–40, 41–60).  
 - **Satisfaction Level Categorization:** Developed calculated columns to segment customers based on satisfaction ratings, enabling deeper insights into customer experience trends.  
 
-These transformations and calculations were integral to creating accurate visualizations and driving actionable insights for the client.  
+Note: These transformations and calculations were integral to creating accurate visualizations and driving actionable insights for the client.  
 
 ### **Findings**  
 
